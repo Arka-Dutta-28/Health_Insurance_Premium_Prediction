@@ -45,9 +45,11 @@ A machine learning solution that predicts health insurance premiums based on dem
 
 ---
 
-## 🖥️ Live App Overview
+## 🌐 Live Demo
 
-Users enter key attributes, and the app selects the best model based on age for instant premium predictions.
+🔗 **Try it here**: [https://health-insurance-premium.streamlit.app/](https://health-insurance-premium.streamlit.app/)
+
+An interactive web interface where users can enter their information and instantly get a personalized health insurance cost prediction based on their age group.
 
 **Input Categories**:
 - Age, Gender, Income, Employment, BMI, Marital Status, Dependents, Medical History, Smoking, Genetic Risk, Insurance Plan, Region
@@ -114,7 +116,7 @@ Users enter key attributes, and the app selects the best model based on age for 
 
 ## 🙋‍♂️ Usage
 
-1. Launch the app either using the local setup or by visiting https://health-insurance-premium.streamlit.app/
+1. Launch the app 
 2. Enter your personal and health details  
 3. Click **Predict**  
 4. The model appropriate for your age group gives a real-time estimate  
