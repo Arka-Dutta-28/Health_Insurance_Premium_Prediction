@@ -89,7 +89,7 @@ An interactive web interface where users can enter their information and instant
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/Health_Insurance_Premium_Prediction.git
+   git clone https://github.com/Arka-Dutta-28/Health_Insurance_Premium_Prediction.git
    cd Health_Insurance_Premium_Prediction
    
 2. **Create a virtual environment (optional but recommended)**   
