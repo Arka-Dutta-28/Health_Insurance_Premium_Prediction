@@ -73,3 +73,13 @@ input_dict = {
 if st.button('Predict'):
     prediction = predict(input_dict)
     st.success(f'Predicted Health Insurance Cost: {prediction}')
+
+st.markdown(
+    """
+    <div style="text-align: center; margin-top: 50px; font-size: 18px;">
+        <hr style="border: 0; border-top: 1px solid #eee; width: 80%; margin: 20px auto;">
+        <p style="font-weight: 600;">Built by <strong>Arka Dutta</strong></p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)

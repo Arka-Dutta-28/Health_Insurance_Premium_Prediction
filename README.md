@@ -102,8 +102,6 @@ Users enter key attributes, and the app selects the best model based on age for 
    ```
 ---
 
----
-
 ## 💻 Tech Stack
 
 - **ML**: Scikit-learn, XGBoost  
@@ -116,7 +114,7 @@ Users enter key attributes, and the app selects the best model based on age for 
 
 ## 🙋‍♂️ Usage
 
-1. Launch the app  
+1. Launch the app either using the local setup or by visiting https://health-insurance-premium.streamlit.app/
 2. Enter your personal and health details  
 3. Click **Predict**  
 4. The model appropriate for your age group gives a real-time estimate  
