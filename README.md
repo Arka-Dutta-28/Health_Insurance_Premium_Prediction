@@ -98,7 +98,12 @@ An interactive web interface where users can enter their information and instant
     source venv/bin/activate
    ```
 
-3. **Run the Streamlit app:** 
+3. **Install dependencies**
+    ```commandline
+    pip install -r requirements.txt
+    ```
+
+4. **Run the Streamlit app:** 
    ```commandline
     streamlit run frontend/main.py
    ```
