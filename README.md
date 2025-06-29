@@ -69,11 +69,7 @@ An interactive web interface where users can enter their information and instant
   - **ml_premium_prediction_rest.ipynb**: Model training for age 25+ group after data segmentation
   - **ml_premium_prediction_rest_with_gr.ipynb**: Model training with dummy genetic risk for 25+ group  
   - **ml_premium_prediction_young.ipynb**: Model training for the young group after data segmentation
-  - **ml_premium_prediction_young_with_gr.ipynb**: Young group model training with genetic risk  
-  - **premiums.xlsx**: Original dataset with all records  
-  - **premiums_rest.xlsx**: Filtered dataset for age 25+ group  
-  - **premiums_young.xlsx**: Filtered dataset for young age group  
-  - **premiums_young_with_gr.xlsx**: Young group data including genetic risk info  
+  - **ml_premium_prediction_young_with_gr.ipynb**: Young group model training with genetic risk
 
 - **main.py**: Entry point for the Streamlit app – handles user input and prediction logic  
 - **prediction_helper.py**: Utility functions for model loading and feature preprocessing  
